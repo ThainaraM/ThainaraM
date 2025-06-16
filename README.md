@@ -20,6 +20,30 @@
 ---
 
 
+
+
+### 💻 Tecnologias que estou conhecendo:
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <!-- Você pode adicionar outras tecnologias conforme for aprendendo -->
+</p>
+
+---
+
+### 📫 Onde me encontrar:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/thainara-m-v-costa)
+- 📍 Brasil
+
+---
+
+<p align="center">
+  Obrigada pela visita! 😊<br/>
+  <i>“No começo ninguém sabe tudo — o importante é continuar tentando!”</i>
+</p>
 <!--
 **ThainaraM/ThainaraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
