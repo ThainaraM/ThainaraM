@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="./octocat-1750084959601.png" alt="Minha Octocat" width="200"/>
+<img src="./octocat-1750084959601.png" alt="Minha Octocat" width="400"/>
 
 
 <!--
