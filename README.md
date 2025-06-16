@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Minha Octocat](./octocat-1750084959601.png)
+<img src="./octocat-1750084959601.png" alt="Minha Octocat" width="200"/>
 
 
 <!--
