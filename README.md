@@ -1,5 +1,23 @@
-## Hi there 👋
-<img src="./octocat-1750084959601.png" alt="Minha Octocat" width="400"/>
+<p align="center">
+  <img src="./octocat-1750084959601.png" alt="Minha Octocat" width="200"/>
+</p>
+
+<h1 align="center">Olá, eu sou a Thainara 👋</h1>
+
+<p align="center">
+  🌟 Estudante de Engenharia de Software explorando o mundo da tecnologia e desenvolvimento!
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Estudante de **Engenharia de Software**
+- 🌱 Aprendendo sobre **programação, desenvolvimento web, lógica e ferramentas de software**
+- 💡 Curiosa e sempre aberta a novos aprendizados
+- 🔍 Interessada em participar de projetos, estudos colaborativos e comunidades tech
+
+---
 
 
 <!--
