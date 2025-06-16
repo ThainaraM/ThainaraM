@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Minha Octocat](./octocat-1750084959601.png)
+
 
 <!--
 **ThainaraM/ThainaraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
