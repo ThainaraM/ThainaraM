@@ -12,7 +12,6 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software**
 - 🌱 Aprendendo sobre **programação, desenvolvimento web, lógica e ferramentas de software**
 - 💡 Curiosa e sempre aberta a novos aprendizados
 - 🔍 Interessada em participar de projetos, estudos colaborativos e comunidades tech
